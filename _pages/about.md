@@ -6,9 +6,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hi, I'm Hongru Li (黎鸿儒). I'm currently a Ph.D. candidate in the Dept. ECE, Hong Kong University of Science and Technology (HKUST), under the supervision with Prof. [Khaled B. Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled). And I work closely with Prof. [Jun Zhang](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=jun-zhang-eejzhang), Prof. [Shenghui Song](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=shenghui-song-eeshsong) and Prof. [Hengtao He](https://radio.seu.edu.cn/2025/0331/c19937a523567/page.htm). Prior to this, I received my B.Eng. degree from Nankai University, Tianjin, China, in 2022.
+Hi, I'm Hongru Li (黎鸿儒). I'm currently a Ph.D. candidate in the Dept. ECE, Hong Kong University of Science and Technology (HKUST), under the supervision with Prof. [Khaled B. Letaief](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=khaled-ben-letaief-eekhaled). And I work closely with Prof. [Jun Zhang](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=jun-zhang-eejzhang), Prof. [Shenghui Song](https://facultyprofiles.hkust.edu.hk/profiles.php?profile=shenghui-song-eeshsong), Prof. [Hengtao He](https://radio.seu.edu.cn/2025/0331/c19937a523567/page.htm) and Dr. [Zixin Wang](https://eewangzx.github.io/). Prior to this, I received my B.Eng. degree from Nankai University, Tianjin, China, in 2022.
 
-My research areas include **Edge AI, Semantic Communication, Task-oriented Communication, and AI for wireless**.
+My research areas include **Edge AI, Semantic Communication, Task-oriented Communication, and AI for Wireless**.
 
 
 

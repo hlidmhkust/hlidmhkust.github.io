@@ -1,5 +1,5 @@
 ---
-permalink: /service/
+permalink: /publications/
 title: "Publications ([Google Scholar](https://scholar.google.com/citations?user=Fsw0Uf4AAAAJ&hl=en))"
 author_profile: false
 ---

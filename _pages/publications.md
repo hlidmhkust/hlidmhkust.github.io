@@ -1,7 +1,7 @@
 ---
 permalink: /publications/
 title: "Publications ([Google Scholar](https://scholar.google.com/citations?user=Fsw0Uf4AAAAJ&hl=en))"
-author_profile: false
+author_profile: true
 ---
 
 * **H. Li**, J. Shao, H. He, S. Song, J. Zhang and K. B. Letaief. "Tackling Distribution Shifts in Task-Oriented Communication with Information Bottleneck", *IEEE JSAC 2025*. [[Paper (Open Access)](https://ieeexplore.ieee.org/document/10964522)]
